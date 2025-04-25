@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+
+# Poetry
+poetry.lock
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Mac OS / Windows
+.DS_Store
+Thumbs.db
